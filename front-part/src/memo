@@ -1,0 +1,12 @@
+on a une liste de la patrimoine dans le data.json
+deja on doit faire un tableau regroupant la liste du patrimoine en question
+jereo tsara zay zavatra ao amle ficchier
+ 
+objectif: savoir calculer le patrimoine de cette personne donnée
+à une date donné que l'on donne nous meme
+
+
+_creer une interface react qui va stocker ces données (sous forme)
+_mettre une case où l'on definie la date
+_ mettre une case qui va afficher le patrimoine actuelle à cette date de la personne
+
